@@ -1,6 +1,4 @@
-
 # Assignment
-  
 
 ## Links
 
@@ -8,10 +6,7 @@
 
 ### Second- [link](https://github.com/ashish293/assignment-first)
 
-    
-
 ## Task
-  
 
 1. [x] Add Login Screen: Implement a login screen with Google sign-in and two-factor authentication (2FA) using Firebase for mobile OTP.
 
@@ -44,13 +39,15 @@
 15. [x] Change Font: Change the app's font to Fira Code from https://fonts.google.com/specimen/Fira+Code
 
 ## Extra feature added
+
 - [x] Redux Used for managing user state at global level.
 - [x] React native element ui library used for managing theme, font and its component.
-
 
 ## Highlights
 
 - Created AppLayout a HOC for showing loader with message.
 - Written simpler function over Toast library for show toast with better code.
 - Used redux for checking login and based on that screen is showing.
-- Used library react-native-country-picker-modal for selecting of country code, and react-native-otp-entry for otp ui. 
+- Used library react-native-country-picker-modal for selecting of country code, and react-native-otp-entry for otp ui.
+
+## Screenshot
