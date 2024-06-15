@@ -51,3 +51,10 @@
 - Used library react-native-country-picker-modal for selecting of country code, and react-native-otp-entry for otp ui.
 
 ## Screenshot
+<div style="display:flex">
+<img src="https://raw.githubusercontent.com/ashish293/assignment/master/images/Login1.jpg" width="200">
+
+<img src="https://raw.githubusercontent.com/ashish293/assignment/master/images/Login2.jpg" width="200">
+
+<img src="https://raw.githubusercontent.com/ashish293/assignment/master/images/Login3.jpg" width="200">
+</div>
