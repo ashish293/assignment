@@ -10,7 +10,7 @@
 
 1. [x] Add Login Screen: Implement a login screen with Google sign-in and two-factor authentication (2FA) using Firebase for mobile OTP.
 
-2. Add Splash Screen: Introduce a splash screen for the application.
+2. [x] Add Splash Screen: Introduce a splash screen for the application.
 
 3. [x] Secure Todo Screen: Ensure the todo screen is accessible only to authenticated users using Tab navigation.
 
